@@ -1,4 +1,4 @@
-### Full Stack Developer with experience using frontend and backend technologies such as React, TypeScript, Node.js, Ruby on Rails and SQL. I apply 8 years of leadership and management skills towards collaboratively identifying complex technical requirements and implementing solutions to satisfy them.![image](https://user-images.githubusercontent.com/63019855/190928670-a49a37b5-8c64-487d-a605-8c78612f85ab.png)
+### Full Stack Developer with experience using frontend and backend technologies such as React, TypeScript, Node.js, Ruby on Rails and SQL. I apply 8 years of leadership and management skills towards collaboratively identifying complex technical requirements and implementing solutions to satisfy them.
 
 
 <!--
