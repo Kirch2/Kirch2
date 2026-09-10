@@ -7,12 +7,7 @@ expensive. I learned to do the second because that kept turning out to be the fi
 
 ## What I'm working on
 
-**Gridlock** — keyboard-first window management for macOS. Snap the frontmost
-window to any region with a shortcut, throw it across displays, move focus between
-windows Vim-style, and save layouts you can restore on demand. Native Swift and
-AppKit, no third-party dependencies, 94 tests, CI on every push. One-time $9
-license with a 14-day trial — no account, no analytics, licenses verified offline.
-Closed source; shipping soon.
+**Gridlock** — keyboard-first window management for macOS.
 
 ## Elsewhere
 
