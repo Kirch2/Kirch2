@@ -11,4 +11,4 @@ expensive. I learned to do the second because that kept turning out to be the fi
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/chriskirchner89/) · kirch2@gmail.com
+[LinkedIn](https://www.linkedin.com/in/chriskirchner89/)
